@@ -7,7 +7,7 @@
 #include <string.h>
 #include <pwd.h> 
 #include <sys/wait.h>
-#define PORT 8090
+#define PORT 8080
 
 int main(int argc, char const *argv[])
 {
