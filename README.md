@@ -4,6 +4,8 @@
 2) Divya Mohan
 
 # Command to run the files:
-gcc -o server server.c && sudo ./server
+gcc -o server server.c</br>
+sudo ./server</br>
 
-gcc -o client client.c && ./client
+gcc -o client client.c</br>
+./client
